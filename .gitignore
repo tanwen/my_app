@@ -15,7 +15,7 @@
 /log/*.log
 /tmp
 
-# tw_20140805_23:26
+# tw_20140805_23:26_
 # Ignore other unneeded files.
 database.yml
 doc/
